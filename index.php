@@ -180,7 +180,7 @@ session_start();
 
     <br><br><br>
     <footer>
-      <center><h4>CopyRight By <b>ALI ABDUL ROKHIM | NO ABSEN 04</b></h4></center>
+      <center><h4>CopyRight By <b>ARIF HENDRA SANTOSO | NO ABSEN 07 XII RPL</b></h4></center>
     </footer>
 
 
