@@ -178,6 +178,13 @@ session_start();
     </div> <!-- /container -->
 
 
+    <br><br><br>
+    <footer>
+      <center><h4>CopyRight By <b>ALI ABDUL ROKHIM | NO ABSEN 04</b></h4></center>
+    </footer>
+
+
+
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
